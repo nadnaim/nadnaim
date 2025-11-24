@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 🙋‍♂️ Introducing Myself
 Hello, I’m **Nadhratunnaim**, but you can call me **Nad**.  
 I’m currently exploring Python, data analysis, AI, machine learning, and web development.  
