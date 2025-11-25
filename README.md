@@ -12,7 +12,7 @@ My focus is on building strong fundamentals and gradually moving toward more adv
 - **Business Intelligence:** Creating beginner-level dashboards and learning to support decision-making with data.  
 - **Python:** Building foundational skills using libraries such as Pandas, NumPy, and Matplotlib, and developing small projects to strengthen understanding.
 
-## 🎨 Visualisation
+## 💻 Projects
 (Add your charts, dashboards, or screenshots here.)
 
 ## 🎓 Certifications
