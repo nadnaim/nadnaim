@@ -4,7 +4,7 @@ I’m currently exploring Python, data analysis, AI, machine learning, and web d
 I began diving into IT and programming recently and have been steadily learning through small projects and hands-on practice. 
 My focus is on building strong fundamentals and gradually moving toward more advanced technologies.
 
-## 🌟 Web development | Machine learning | Artificial intelligence | Coding
+## 🌟 Artificial intelligence | Coding | Machine learning | Web development
 
 ## ⚡ Core Competencies
 - **Data Analysis:** Exploring datasets to understand basic patterns and trends.  
@@ -20,7 +20,7 @@ My focus is on building strong fundamentals and gradually moving toward more adv
 
 
 ## 🎓 Certifications
-(Add your certificates here.)
+
 
 ## 🌍 Connect with Me
 📫 **Email:** nadhnaim@gmail.com
