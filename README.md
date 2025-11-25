@@ -15,7 +15,6 @@ My focus is on building strong fundamentals and gradually moving toward more adv
 ## 💻 Projects
 📌 **Coding**  - Guess The Number
 <img width="1360" height="579" alt="Coding 1" src="https://github.com/user-attachments/assets/9d71c7d8-9fe6-4603-8a8f-573a454afc6e" />
-<img width="1360" height="601" alt="Coding 2" src="https://github.com/user-attachments/assets/c9b6d771-d0fb-461d-95e9-977000090c8f" />
 <img width="1360" height="606" alt="Coding 3" src="https://github.com/user-attachments/assets/84d31e36-53f9-4a2b-ad8e-c6bdbe2611b0" />
 
 
