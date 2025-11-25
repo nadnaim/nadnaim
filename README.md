@@ -1,10 +1,9 @@
+## 🌟 Artificial intelligence | Coding | Machine learning | Web development
+
 ## 🙋‍♂️ Introducing Myself
-Hello, I’m **Nadhratunnaim**, but you can call me **Nad**.  
-I’m currently exploring Python, data analysis, AI, machine learning, and web development.  
+Hello, I’m **Nadhratunnaim**, but you can call me **Nad**. 
 I began diving into IT and programming recently and have been steadily learning through small projects and hands-on practice. 
 My focus is on building strong fundamentals and gradually moving toward more advanced technologies.
-
-## 🌟 Artificial intelligence | Coding | Machine learning | Web development
 
 ## ⚡ Core Competencies
 - **Data Analysis:** Exploring datasets to understand basic patterns and trends.  
