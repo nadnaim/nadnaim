@@ -17,7 +17,7 @@ My focus is on building strong fundamentals and gradually moving toward more adv
 <img width="1360" height="606" alt="Coding 3" src="https://github.com/user-attachments/assets/84d31e36-53f9-4a2b-ad8e-c6bdbe2611b0" />
 ###
 📌 **Data Analysis**  
-## Exploratory Data Analysis (EDA) 
+Exploratory Data Analysis (EDA) 
 Source - https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 <img width="1360" height="614" alt="EDA 1" src="https://github.com/user-attachments/assets/5f1895ca-d39d-4a62-a685-47b25290ba86" />
 <img width="1360" height="602" alt="EDA 2" src="https://github.com/user-attachments/assets/ed672518-c886-40bb-830f-83591ba26229" />
