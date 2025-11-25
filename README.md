@@ -15,9 +15,10 @@ My focus is on building strong fundamentals and gradually moving toward more adv
 📌 **Coding**  - Guess The Number
 <img width="1360" height="579" alt="Coding 1" src="https://github.com/user-attachments/assets/9d71c7d8-9fe6-4603-8a8f-573a454afc6e" />
 <img width="1360" height="606" alt="Coding 3" src="https://github.com/user-attachments/assets/84d31e36-53f9-4a2b-ad8e-c6bdbe2611b0" />
-##
+###
 📌 **Data Analysis**  
-## Exploratory Data Analysis (EDA) - https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
+## Exploratory Data Analysis (EDA) 
+Source - https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 <img width="1360" height="614" alt="EDA 1" src="https://github.com/user-attachments/assets/5f1895ca-d39d-4a62-a685-47b25290ba86" />
 <img width="1360" height="602" alt="EDA 2" src="https://github.com/user-attachments/assets/ed672518-c886-40bb-830f-83591ba26229" />
 <img width="1360" height="613" alt="EDA 3" src="https://github.com/user-attachments/assets/6d11b814-9c7b-44ac-b276-3a391cabe63b" />
