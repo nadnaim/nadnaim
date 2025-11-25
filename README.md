@@ -1,4 +1,4 @@
-<img width="1360" height="601" alt="Coding 2" src="https://github.com/user-attachments/assets/4d80e2eb-41ef-484c-b663-3da10ccefde5" />## 🙋‍♂️ Introducing Myself
+## 🙋‍♂️ Introducing Myself
 Hello, I’m **Nadhratunnaim**, but you can call me **Nad**.  
 I’m currently exploring Python, data analysis, AI, machine learning, and web development.  
 I began diving into IT and programming recently and have been steadily learning through small projects and hands-on practice. 
