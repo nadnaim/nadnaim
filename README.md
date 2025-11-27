@@ -26,6 +26,7 @@ Data Cleaning
 <img width="1360" height="607" alt="Data Cleaning" src="https://github.com/user-attachments/assets/9ee168f1-7808-4166-a2a0-84cb337e78a0" />
 
 ## 🎓 Certifications
+![Certificate AI-Nadhratunnaim Binti Harun-1](https://github.com/user-attachments/assets/bb4d5d29-160f-49e6-bf28-376b02dcd1b0)
 
 
 ## 🌍 Connect with Me
