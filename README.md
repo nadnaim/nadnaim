@@ -24,6 +24,12 @@ Exploratory Data Analysis (EDA)
 ###
 Data Cleaning
 <img width="1360" height="607" alt="Data Cleaning" src="https://github.com/user-attachments/assets/9ee168f1-7808-4166-a2a0-84cb337e78a0" />
+###
+📌 **Natural Language Processing & Sentiment Analysis**
+<img width="1026" height="768" alt="NLP SA1" src="https://github.com/user-attachments/assets/5d166f0d-17aa-4c70-8a36-ba399d537798" />
+<img width="1025" height="768" alt="NLP SA2" src="https://github.com/user-attachments/assets/bbd23691-6102-43ae-aa4b-c064b1c54713" />
+<img width="626" height="470" alt="NLP SA3" src="https://github.com/user-attachments/assets/615a4a91-0552-49b6-b311-a0eef87ad6dc" />
+<img width="623" height="467" alt="NLP SA4" src="https://github.com/user-attachments/assets/7e477a6a-e5f4-43b4-9698-1eca88e7ef4a" />
 
 ## 🎓 Certifications
 ![Certificate AI-Nadhratunnaim Binti Harun-1](https://github.com/user-attachments/assets/bb4d5d29-160f-49e6-bf28-376b02dcd1b0)
